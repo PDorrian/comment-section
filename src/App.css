@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
@@ -29,4 +27,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.outer-box
+{
+  width: 80%;
+  margin: auto !important;
+  margin-top: 15px !important;
 }
